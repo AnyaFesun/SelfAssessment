@@ -6,20 +6,20 @@
   - Structured programming: 🙋 explained
   - Non-structured programming: 🙋 explained
   - Functional programming: 🙋 explained
-  - Prototype-based programming:👂 heard
+  - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🙋 explained
-  - Object-based programming:👂 heard
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming:👂 heard
-  - Parallel programming:👂 heard
-  - Reactive programming:👂 heard
-  - FRP (Functional-reactive)
+  - Object-based programming:🙋 explained
+  - Generic programming: 🎓 known
+  - Concurrent computing: 🖐️ used
+  - Asyncronous programming:🙋 explained
+  - Parallel programming:🙋 explained
+  - Reactive programming: 🖐️ used
+  - FRP (Functional-reactive): 🎓 known
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming:👂 heard
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
-  - Actor model:👂 heard
+  - Actor model:🙋 explained
 - OOP basics
   - constructor: 🙋 explained
   - new: 🙋 explained
@@ -34,33 +34,33 @@
   - Parent class: 🙋 explained
   - Polymorphism: 🙋 explained
   - Abstract class: 🙋 explained
-  - Interface: 🖐️ used
+  - Interface: 🙋 explained
   - Encapsulation: 🙋 explained
-  - Hidden class:👂 heard
-  - Object form: 🖐️ used
-  - instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Hidden class: 🎓 known
+  - Object form: 🙋 explained
+  - instance: 🙋 explained
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton: 🙋 explained
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
   - Adapter
   - Observer
-  - Strategy
-  - Facade
-  - Proxy:👂 heard
-  - Chain of Responsibility
-  - Command
-  - Iterator: 🖐️ used
-  - State
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🙋 explained
+  - Chain of Responsibility: 👂 heard
+  - Command: 🎓 known
+  - Iterator: 🙋 explained
+  - State: 🎓 known
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🙋 explained
   - Composite
-  - Decorator
+  - Decorator: 🎓 known
   - Flyweight
   - Mediator
   - Memento
-  - Template Method: 🖐️ used
-  - Visitor
+  - Template Method: 🙋 explained
+  - Visitor: 🎓 known
