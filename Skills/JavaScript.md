@@ -1,79 +1,79 @@
-## Programming fundamental concepts
+![image](https://github.com/AnyaFesun/SelfAssessment/assets/144602677/ba715b9e-32d9-4093-8a34-5478f1791480)## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object: 🖐️ used
+  - this: 🖐️ used
   - arrow function
   - async function
-  - call
+  - call: 🖐️ used
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🎓 known
   - destructuring
-  - generator
-  - iterator
+  - generator: 🎓 known
+  - iterator: 🎓 known
   - async generator
   - async iterator
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 🖐️ used
   - globalThis
-  - window
-  - getters and setters
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used
   - yield
   - await
   - template literal
   - strict mode
-  - delete
-  - in
-  - super
+  - delete: 🖐️ used
+  - in: 
+  - super: 🖐️ used
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
   - for..in
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw: 🖐️ used
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch: 🖐️ used
+  - switch: 🙋 explained
+  - class: 🙋 explained
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🎓 known
+  - null: 🙋 explained
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js:👂 heard
+  - npm:👂 heard
   - prettier
   - MDN
