@@ -1,44 +1,44 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Procedural programming: 🙋 explained
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🙋 explained
+  - Non-structured programming: 🙋 explained
+  - Functional programming: 🙋 explained
+  - Prototype-based programming:👂 heard
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming:👂 heard
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asyncronous programming:👂 heard
+  - Parallel programming:👂 heard
+  - Reactive programming:👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming:👂 heard
   - Metaprogramming
-  - Actor model
+  - Actor model:👂 heard
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method:👂 heard
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🖐️ used
+  - Encapsulation: 🙋 explained
+  - Hidden class:👂 heard
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
   - Introspection
   - Reflection
 - Patterns
@@ -49,10 +49,10 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy:👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 🖐️ used
   - State
   - Bridge
   - Builder
@@ -62,5 +62,5 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 🖐️ used
   - Visitor
