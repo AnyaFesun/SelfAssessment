@@ -1,5 +1,3 @@
-![image](https://github.com/AnyaFesun/SelfAssessment/assets/144602677/ba715b9e-32d9-4093-8a34-5478f1791480)## Programming fundamental concepts
-
 - Language
   - Object: 🖐️ used
   - this: 🖐️ used
