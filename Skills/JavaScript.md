@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function
-  - async function
-  - call: 🖐️ used
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof: 🎓 known
-  - destructuring
-  - generator: 🎓 known
-  - iterator: 🎓 known
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global: 🖐️ used
-  - globalThis
-  - window: 🖐️ used
-  - getters and setters: 🖐️ used
-  - __proto__
-  - prototype
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - yield
-  - await
-  - template literal
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🙋 explained
+  - bind: 👂 heard
+  - apply: 👂 heard
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🙋 explained
+  - iterator: 🙋 explained
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 🙋 explained
+  - optional chaining: 🙋 explained
+  - IIFE: 👂 heard
+  - global: 🙋 explained
+  - globalThis: 👂 heard
+  - window: 🙋 explained
+  - getters and setters: 🙋 explained
+  - __proto__: 🙋 explained
+  - prototype: 🙋 explained
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🙋 explained
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 🙋 explained
+  - await: 🙋 explained
+  - template literal: 👂 heard
   - strict mode
-  - delete: 🖐️ used
-  - in: 
-  - super: 🖐️ used
-  - Symbol
-  - Reflect
+  - delete: 🙋 explained
+  - in: 🙋 explained 
+  - super: 🙋 explained
+  - Symbol: 🙋 explained
+  - Reflect: 👂 heard
 - Statements
   - if: 🙋 explained
   - while: 🙋 explained
   - do..while: 🙋 explained
   - for: 🙋 explained
-  - for..in
-  - for..of
-  - for await
+  - for..in: 🖐️ used
+  - for..of: 🙋 explained
+  - for await: 👂 heard
   - throw: 🖐️ used
   - break: 🙋 explained
   - continue: 🙋 explained
   - import: 🙋 explained
   - export: 🙋 explained
-  - label
+  - label:👂 heard
   - try..catch: 🖐️ used
   - switch: 🙋 explained
   - class: 🙋 explained
-  - new Error
-  - with
+  - new Error: 🙋 explained
+  - with:👂 heard
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
   - functional object
 - Data structures
-  - Array: 🖐️ used
-  - mixin
-  - extend
-  - typed arrays
-  - Map: 🎓 known
-  - Set: 🎓 known
-  - undefined: 🎓 known
+  - Array: 🙋 explained
+  - mixin:👂 heard
+  - extend:👂 heard
+  - typed arrays: 🙋 explained
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
   - null: 🙋 explained
-  - Proxy
+  - Proxy:👂 heard
   - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - timers:👂 heard
+  - EventEmitter:👂 heard
+  - RegExp: 🙋 explained
+  - Date: 🙋 explained
+  - BigInt: 🙋 explained
 - Infrastructure
-  - V8
-  - Node.js:👂 heard
-  - npm:👂 heard
-  - prettier
-  - MDN
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
