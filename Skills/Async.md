@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - try..catch
+  - try..catch: 🙋 explained
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -36,7 +36,7 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
   - Locks
